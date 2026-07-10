@@ -1,4 +1,4 @@
-### Online Courses Analytics Dashboard (Power BI)
+# Online Courses Analytics Dashboard (Power BI)
 
 A dynamic, data-driven Power BI dashboard built to analyze e-learning course performance, student engagement metrics, and content distribution patterns. This project transforms raw operational data from online courses into actionable executive-level insights, helping educational platforms optimize their content strategies and track audience engagement.
 
